@@ -1,0 +1,43 @@
+id: SFI
+name: Second Factor Inc.
+slogan: A Higher Level of Trust
+website: https://secondfactor.com/
+
+# Short description, longer content can be placed in `content/members/`
+description: Second Factor provides IT security solutions and specializes in designing, deploying, and operating PKI solutions for large organizations. Second Factor professionals help organizations develop policies, implement security practices, and automate the deployment, maintenance, and monitoring of systems.
+
+# Careers
+careers:
+  url: https://secondfactor.com/careers
+  feed:
+  language: en_US
+
+# Social media
+social:
+  linkedin: https://www.linkedin.com/company/SFI
+
+# Here you can list those who represent or have represented the member.
+#
+# Those who no longer represent an organization might have written blog posts,
+# to keep the attribution a from/till data range can be included.
+representatives:
+  - name: Ray Shanley
+    role: President and CEO
+    social:
+      linkedin: https://www.linkedin.com/in/rayshanley/
+description:
+      Ray Shanley, Founder/CEO of Second Factor Inc (SFI) since its inception in 2013, sets the technical vision and direction of the company as well as personifies a culture of knowledge sharing and support. Ray is a true Enterprise Security Architect with experience in requirements analysis, solutions design and architecture, systems integration, and successful production deployments. His expert analytical, design, and technical problem-solving skills has led him to be at the forefront of Public Key Infrastructure (PKI), Privilege Management Infrastructure (PMI), and Identity Management solutions.
+
+  - name: Fahim Ahmed
+    role: VP of Professional Services
+    social:
+      linkedin: https://www.linkedin.com/in/fahmsahmed/
+    description:
+      Fahim Ahmed, our VP of Professional Services, has been with Second Factor Inc since 2016. An invaluable member of the leadership team, helping to move SFI forward with integrity and thoughtful leadership. Fahim has over 15 years of experience in design, deployment, and operation of IT security solutions for government and corporate clients. Fahim is the most well-rounded individual you could ever ask to work with.
+
+   - name: Steven Dowler
+    role: Director of Operations
+    social:
+      linkedin: https://www.linkedin.com/in/steven-dowler-8913976/
+    description:
+      Steven Dowler, Director of Operations, the newest member of the leadership team joining in 2022, has over 20 years of experience implementing and managing some of the nation’s most complicated programs. Equally comfortable leading a team of technical individuals or reading a corporate balance sheet, Steven is always ready to dig in and move the needle forward to ensure our clients’ success.
